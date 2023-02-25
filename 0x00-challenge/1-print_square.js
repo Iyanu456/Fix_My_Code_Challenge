@@ -22,3 +22,5 @@ for (i = 0 ; i < size ; i ++) {
     }
     process.stdout.write("\n");
 }
+i = 0
+j = 0
